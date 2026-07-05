@@ -1,8 +1,7 @@
 # Student Enrollment Form using JsonPowerDB
 
 A responsive web-based **Student Enrollment System** built using **HTML, Bootstrap, JavaScript, AJAX, and JsonPowerDB (JPDB)**. The application enables users to add, update, reset, and manage student records efficiently using a simple user interface and a NoSQL database.
-
-![Uploading Dashboard.png…]()
+![Uploading image.png…]()
 
 ---
 
