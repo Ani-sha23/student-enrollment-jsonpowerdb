@@ -75,11 +75,9 @@ The enrollment form stores details such as:
 1. Open the Student Enrollment Form.
 2. Enter the student's Roll Number.
 3. If the Roll Number already exists:
-
    * Existing data is fetched from JsonPowerDB.
    * User can update the record.
 4. If the Roll Number is new:
-
    * Fill in the remaining details.
    * Save the record into the database.
 5. Use the Reset button to clear all fields.
@@ -116,14 +114,12 @@ cd student-enrollment-jsonpowerdb
 ## 🔗 JsonPowerDB Configuration
 
 Before running the project, configure the following values inside your JavaScript file:
-
 * Database Name
 * Relation Name
 * Connection Token
 * JPDB API URL
 
 Example:
-
 ```javascript
 const connToken = "YOUR_CONNECTION_TOKEN";
 const dbName = "YOUR_DATABASE_NAME";
@@ -133,7 +129,6 @@ const relName = "STUDENT-TABLE";
 Replace these values with your own JsonPowerDB credentials.
 
 ---
-
 ## 💡 Advantages of JsonPowerDB
 
 * High-performance NoSQL database
@@ -147,7 +142,6 @@ Replace these values with your own JsonPowerDB credentials.
 ---
 
 ## 📸 Screenshots
-
 You can include screenshots like:
 
 * Home Page
@@ -157,7 +151,6 @@ You can include screenshots like:
 * Database Records
 
 Example:
-
 ```text
 screenshots/
 ├── home.png
@@ -168,8 +161,7 @@ screenshots/
 
 ---
 
-## 🎯 Future Enhancements
-
+##  Future Enhancements
 * Delete student records
 * Search by multiple fields
 * Student list dashboard
