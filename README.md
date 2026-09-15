@@ -218,7 +218,3 @@ This project is licensed under the MIT License.
 GitHub: https://github.com/Ani-sha23
 
 ---
-
-## ⭐ Support
-
-If you found this project useful, please consider giving it a ⭐ on GitHub. It helps others discover the project and motivates future improvements.
