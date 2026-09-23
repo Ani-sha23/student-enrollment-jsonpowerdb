@@ -142,7 +142,6 @@ Replace these values with your own JsonPowerDB credentials.
 ---
 
 ## 📸 Screenshots
-You can include screenshots like:
 
 * Home Page
 * Student Enrollment Form
