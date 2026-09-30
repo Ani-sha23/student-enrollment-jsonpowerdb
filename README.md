@@ -57,7 +57,7 @@ student-enrollment-jsonpowerdb/
 
 ---
 
-## 📋 Student Information Collected
+## Student Information Collected
 
 The enrollment form stores details such as:
 
@@ -70,7 +70,7 @@ The enrollment form stores details such as:
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. Open the Student Enrollment Form.
 2. Enter the student's Roll Number.
@@ -84,7 +84,7 @@ The enrollment form stores details such as:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
