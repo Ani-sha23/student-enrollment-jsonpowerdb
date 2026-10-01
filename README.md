@@ -201,13 +201,13 @@ If you'd like to improve this project:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Anisha Garg**
 
