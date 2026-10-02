@@ -129,7 +129,7 @@ const relName = "STUDENT-TABLE";
 Replace these values with your own JsonPowerDB credentials.
 
 ---
-## 💡 Advantages of JsonPowerDB
+## Advantages of JsonPowerDB
 
 * High-performance NoSQL database
 * Simple REST API
@@ -172,7 +172,7 @@ screenshots/
 
 ---
 
-## 📖 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, you will learn:
 
@@ -187,7 +187,7 @@ Through this project, you will learn:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome!
 
