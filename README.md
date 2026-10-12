@@ -4,7 +4,6 @@ Anisha Garg
 
 A responsive web-based **Student Enrollment System** built using **HTML, Bootstrap, JavaScript, AJAX, and JsonPowerDB (JPDB)**. The application enables users to add, update, reset, and manage student records efficiently using a simple user interface and a NoSQL database.
 
-
 ---
 
 ## Overview
@@ -72,7 +71,7 @@ The enrollment form stores details such as:
 
 ---
 
-## How It Works
+## Working
 
 1. Open the Student Enrollment Form.
 2. Enter the student's Roll Number.
