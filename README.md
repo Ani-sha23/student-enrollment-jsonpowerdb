@@ -8,7 +8,6 @@ A responsive web-based **Student Enrollment System** built using **HTML, Bootstr
 
 This project demonstrates how to integrate a frontend web application with **JsonPowerDB (JPDB)** to perform CRUD (Create, Read, Update, Delete) operations. It provides an easy-to-use student enrollment form where users can enter student details and store them directly in the database.
 
-The project is beginner-friendly, and ideal for learning AJAX requests and JPDB integration.
 
 ---
 
