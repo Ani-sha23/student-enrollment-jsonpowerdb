@@ -208,9 +208,7 @@ This project is licensed under the MIT License.
 ## Author
 
 **Anisha Garg**
-
 * B.Tech CSE (AI & ML)
-* VIT Bhopal University
 
 GitHub: https://github.com/Ani-sha23
 
