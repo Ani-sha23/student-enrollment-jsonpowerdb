@@ -1,5 +1,5 @@
 
-# 🎓 Student Enrollment Form using JsonPowerDB
+# Student Enrollment Form using JsonPowerDB
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project-Student%20Enrollment-6366F1?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Project Badge" />
@@ -12,32 +12,32 @@
 </p>
 
 <p align="center">
-  <b>📝 Enroll Students &nbsp; | &nbsp; 🔍 Search Records &nbsp; | &nbsp; ✏️ Update Details</b>
+  <b>Enroll Students &nbsp; | &nbsp; Search Records &nbsp; | &nbsp; Update Details</b>
 </p>
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
-- [✨ Overview](#-overview)
-- [🚀 Features](#-features)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📂 Project Structure](#-project-structure)
-- [📋 Student Information](#-student-information)
-- [⚙️ Getting Started](#️-getting-started)
-- [🔗 JsonPowerDB Configuration](#-jsonpowerdb-configuration)
-- [🔄 Application Workflow](#-application-workflow)
-- [💡 Why JsonPowerDB?](#-why-jsonpowerdb)
-- [📸 Screenshots](#-screenshots)
-- [🔮 Future Enhancements](#-future-enhancements)
-- [📚 Learning Outcomes](#-learning-outcomes)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [👩‍💻 Author](#-author)
+- [Overview](#overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Student Information](#student-information)
+- [Getting Started](#getting-started)
+- [JsonPowerDB Configuration](#jsonpowerdb-configuration)
+- [Application Workflow](#application-workflow)
+- [Why JsonPowerDB?](#why-jsonpowerdb)
+- [Screenshots](#screenshots)
+- [Future Enhancements](#future-enhancements)
+- [Learning Outcomes](#learning-outcomes)
+- [Contributing](#contributing)
+- [License](#license)
+- [Author](#author)
 
 ---
 
-## ✨ Overview
+## Overview
 
 **Student Enrollment Form using JsonPowerDB** is a responsive web application designed to simplify the process of collecting and managing student information.
 
@@ -45,7 +45,7 @@ Built with **HTML5, Bootstrap, JavaScript, AJAX, and JsonPowerDB**, the applicat
 
 The project focuses on simplicity, efficient data handling, user-friendly form interactions, and practical database integration.
 
-### 🎯 Project Objectives
+### Project Objectives
 
 - Build a clean and responsive student enrollment interface.
 - Integrate a web application with JsonPowerDB.
@@ -55,25 +55,25 @@ The project focuses on simplicity, efficient data handling, user-friendly form i
 
 ---
 
-## 🚀 Features
+## Features
 
 | Feature | Description |
 |---|---|
-| ➕ Add Student | Register new student records in the database. |
-| 🔍 Search Student | Retrieve student information using Roll Number. |
-| ✏️ Update Record | Modify existing student information. |
-| 🔄 Reset Form | Clear input fields and prepare the form for another entry. |
-| 📱 Responsive UI | Use a Bootstrap-based interface across screen sizes. |
-| ✅ Form Validation | Validate required fields before processing data. |
-| ⚡ AJAX Integration | Communicate with the database without a full-page reload. |
-| 🗄️ Database Integration | Store and retrieve records through JsonPowerDB. |
-| 🧩 Simple Interface | Keep enrollment operations straightforward and accessible. |
+| Add Student | Register new student records in the database. |
+| Search Student | Retrieve student information using Roll Number. |
+| Update Record | Modify existing student information. |
+| Reset Form | Clear input fields and prepare the form for another entry. |
+| Responsive UI | Use a Bootstrap-based interface across screen sizes. |
+| Form Validation | Validate required fields before processing data. |
+| AJAX Integration | Communicate with the database without a full-page reload. |
+| Database Integration | Store and retrieve records through JsonPowerDB. |
+| Simple Interface | Keep enrollment operations straightforward and accessible. |
 
 > **Note:** The available operations depend on the functionality implemented in the application. Delete functionality is listed as a future enhancement.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -95,7 +95,7 @@ The project focuses on simplicity, efficient data handling, user-friendly form i
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 student-enrollment-jsonpowerdb/
@@ -113,7 +113,7 @@ student-enrollment-jsonpowerdb/
 
 ---
 
-## 📋 Student Information
+## Student Information
 
 The application is designed to collect and manage the following student details:
 
@@ -130,7 +130,7 @@ The Roll Number is used to identify and retrieve existing student records.
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 Follow these steps to set up the project locally.
 
@@ -170,7 +170,7 @@ Open `index.html` in your browser, or use the **Live Server** extension in Visua
 
 ---
 
-## 🔗 JsonPowerDB Configuration
+## JsonPowerDB Configuration
 
 JsonPowerDB is used as the database layer for storing and retrieving student records.
 
@@ -190,7 +190,7 @@ Also verify the following:
 - **API Endpoint:** Use the appropriate endpoint for your JPDB API version.
 - **Record Identifier:** Use Roll Number consistently when retrieving or updating records.
 
-### 🔐 Security Best Practices
+### Security Best Practices
 
 - Never commit real connection tokens, passwords, or private credentials to a public repository.
 - Avoid exposing sensitive credentials in client-side JavaScript.
@@ -202,7 +202,7 @@ Also verify the following:
 
 ---
 
-## 🔄 Application Workflow
+## Application Workflow
 
 ```text
         ┌─────────────────────────┐
@@ -248,19 +248,19 @@ Also verify the following:
 
 ---
 
-## 💡 Why JsonPowerDB?
+## Why JsonPowerDB?
 
 JsonPowerDB offers a lightweight database integration approach for small web applications and learning projects.
 
-- ⚡ **Fast Integration:** Work with database operations through APIs.
-- 🧩 **Schema Flexibility:** Work with JSON-based data structures.
-- 🌐 **REST API Support:** Connect frontend or backend applications to database services.
-- 📦 **Lightweight Workflow:** Reduce setup complexity for suitable projects.
-- 📚 **Learning Friendly:** Practice database operations and API integration.
+- **Fast Integration:** Work with database operations through APIs.
+- **Schema Flexibility:** Work with JSON-based data structures.
+- **REST API Support:** Connect frontend or backend applications to database services.
+- **Lightweight Workflow:** Reduce setup complexity for suitable projects.
+- **Learning Friendly:** Practice database operations and API integration.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 Add screenshots of your actual application to showcase its interface and functionality.
 
@@ -278,19 +278,19 @@ assets/
 
 Once you add the screenshots, display them in this section using the following Markdown:
 
-### 🏠 Home Page
+### Home Page
 
 ![Student Enrollment Home Page](assets/screenshots/home.png)
 
-### 📝 Enrollment Form
+### Enrollment Form
 
 ![Student Enrollment Form](assets/screenshots/enrollment-form.png)
 
-### ✅ Saved Student Record
+### Saved Student Record
 
 ![Saved Student Record](assets/screenshots/saved-record.png)
 
-### ✏️ Updated Student Record
+### Updated Student Record
 
 ![Updated Student Record](assets/screenshots/update-record.png)
 
@@ -298,7 +298,7 @@ Once you add the screenshots, display them in this section using the following M
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 The following improvements could extend the application:
 
@@ -316,7 +316,7 @@ The following improvements could extend the application:
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 This project provides practical experience with:
 
@@ -333,7 +333,7 @@ This project provides practical experience with:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, suggestions, and improvements are welcome!
 
@@ -362,7 +362,7 @@ To contribute:
 
 ---
 
-## 📄 License
+## License
 
 This project is intended to be released under the **MIT License**.
 
@@ -370,7 +370,7 @@ If you choose the MIT License, add a `LICENSE` file containing the appropriate l
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 ### Anisha Garg
 
@@ -382,14 +382,14 @@ If you choose the MIT License, add a `LICENSE` file containing the appropriate l
   </a>
 </p>
 
-🔗 **GitHub Profile:** [github.com/Ani-sha23](https://github.com/Ani-sha23)
+**GitHub Profile:** [github.com/Ani-sha23](https://github.com/Ani-sha23)
 
 ---
 
 <p align="center">
-  <b>⭐ If you find this project useful, consider giving the repository a star!</b>
+  <b>If you find this project useful, consider giving the repository a star!</b>
 </p>
 
 <p align="center">
-  Built with 💙 using HTML, Bootstrap, JavaScript, AJAX, and JsonPowerDB.
+  Built using HTML, Bootstrap, JavaScript, AJAX, and JsonPowerDB.
 </p>
