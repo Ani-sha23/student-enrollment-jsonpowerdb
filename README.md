@@ -279,20 +279,9 @@ assets/
 Once you add the screenshots, display them in this section using the following Markdown:
 
 ### Home Page
-
-![Student Enrollment Home Page](assets/screenshots/home.png)
-
 ### Enrollment Form
-
-![Student Enrollment Form](assets/screenshots/enrollment-form.png)
-
 ### Saved Student Record
-
-![Saved Student Record](assets/screenshots/saved-record.png)
-
 ### Updated Student Record
-
-![Updated Student Record](assets/screenshots/update-record.png)
 
 > Replace these example image paths with the actual screenshot filenames in your repository. Remove any image entries for screenshots you have not added yet.
 
